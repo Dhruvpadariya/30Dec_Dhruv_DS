@@ -1,0 +1,24 @@
+transaction_id,store_name,customer_name,employee_id,transaction_date,product_name,product_category,sales_amount,performance_review_score
+1,"Store A","John Smith",101,2022-01-01,"Product 1","Category A",100.00,4
+2,"Store B","Jane Doe",102,2022-01-02,"Product 2","Category B",50.00,3
+3,"Store C","Bob Johnson",103,2022-01-03,"Product 1","Category A",75.00,2
+4,"Store A","Sarah Lee",101,2022-01-04,"Product 3","Category C",125.00,5
+5,"Store B","Tim Jones",102,2022-01-05,"Product 2","Category B",75.00,4
+6,"Store C","Samantha Smith",103,2022-01-06,"Product 1","Category A",100.00,4
+7,"Store A","Tom Johnson",101,2022-01-07,"Product 4","Category D",200.00,5
+8,"Store B","Alexis Davis",102,2022-01-08,"Product 5","Category E",150.00,4
+9,"Store C","John Johnson",103,2022-01-09,"Product 2","Category B",50.00,3
+10,"Store A","Emily Lee",101,2022-01-10,"Product 3","Category C",100.00,4
+11,"Store B","Tommy Lee",102,2022-01-11,"Product 1","Category A",75.00,3
+12,"Store C","Sarah Johnson",103,2022-01-12,"Product 5","Category E",175.00,5
+13,"Store A","James Johnson",101,2022-01-13,"Product 4","Category D",225.00,5
+14,"Store B","Linda Davis",102,2022-01-14,"Product 3","Category C",125.00,4
+15,"Store C","Alex Johnson",103,2022-01-15,"Product 2","Category B",50.00,3
+16,"Store A","Susan Lee",101,2022-01-16,"Product 1","Category A",100.00,2
+17,"Store B","George Smith",102,2022-01-17,"Product 5","Category E",200.00,5
+18,"Store C","Sam Davis",103,2022-01-18,"Product 4","Category D",175.00,5
+19,"Store A","Chris Johnson",101,2022-01-19,"Product 2","Category B",50.00,3
+20,"Store B","Rachel Lee",102,2022-01-20,"Product 1","Category A",75.00,4
+21,"Store C","Ethan Davis",103,2022-01-21,"Product 5","Category E",175.00,2
+22,"Store A","Sophia Johnson",101,2022-01-22,"Product 3","Category C",100.00,4
+23,"Store B","Luke Lee",102,2022-01-23,"Product 4","Category D",125.00,4
